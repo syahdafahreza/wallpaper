@@ -1,0 +1,187 @@
+
+Chise_BG.png
+size: 1982,2017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/Clouds_00
+  rotate: false
+  xy: 1296, 1720
+  size: 334, 295
+  orig: 459, 366
+  offset: 117, 70
+  index: -1
+01/Clouds_00_blur
+  rotate: false
+  xy: 1632, 1719
+  size: 348, 296
+  orig: 459, 364
+  offset: 111, 68
+  index: -1
+01/Clouds_01
+  rotate: false
+  xy: 1014, 1765
+  size: 280, 250
+  orig: 383, 251
+  offset: 103, 0
+  index: -1
+01/Clouds_03
+  rotate: false
+  xy: 439, 1135
+  size: 512, 372
+  orig: 867, 384
+  offset: 0, 11
+  index: -1
+01/Clouds_04
+  rotate: false
+  xy: 683, 1775
+  size: 329, 240
+  orig: 995, 240
+  offset: 0, 0
+  index: -1
+01/Clouds_04_blur
+  rotate: false
+  xy: 349, 1780
+  size: 332, 235
+  orig: 969, 235
+  offset: 0, 0
+  index: -1
+01/Moon
+  rotate: false
+  xy: 1142, 2
+  size: 587, 585
+  orig: 587, 585
+  offset: 0, 0
+  index: -1
+01/Stars_00
+  rotate: true
+  xy: 1276, 589
+  size: 439, 666
+  orig: 552, 666
+  offset: 113, 0
+  index: -1
+01/Stars_01
+  rotate: true
+  xy: 489, 59
+  size: 547, 651
+  orig: 624, 796
+  offset: 0, 0
+  index: -1
+01/Stars_02
+  rotate: false
+  xy: 1115, 1413
+  size: 729, 304
+  orig: 729, 304
+  offset: 0, 0
+  index: -1
+01/Stars_03
+  rotate: false
+  xy: 953, 1036
+  size: 510, 375
+  orig: 510, 375
+  offset: 0, 0
+  index: -1
+01/Stars_04
+  rotate: false
+  xy: 2, 1201
+  size: 435, 306
+  orig: 525, 422
+  offset: 0, 0
+  index: -1
+01/Stars_05
+  rotate: true
+  xy: 2, 243
+  size: 463, 485
+  orig: 567, 515
+  offset: 104, 6
+  index: -1
+01/Trees_01_blur
+  rotate: false
+  xy: 2, 1509
+  size: 1111, 254
+  orig: 1224, 288
+  offset: 113, 34
+  index: -1
+01/Trees_02_blur
+  rotate: true
+  xy: 1465, 1030
+  size: 381, 417
+  orig: 416, 510
+  offset: 35, 93
+  index: -1
+01/Trees_03_Nor
+  rotate: true
+  xy: 2, 708
+  size: 425, 635
+  orig: 677, 791
+  offset: 0, 124
+  index: -1
+01/Trees_03_blur
+  rotate: true
+  xy: 639, 608
+  size: 426, 635
+  orig: 679, 791
+  offset: 0, 124
+  index: -1
+01/boke_01
+  rotate: true
+  xy: 246, 1915
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+01/boke_02
+  rotate: false
+  xy: 144, 1916
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+01/boke_03
+  rotate: false
+  xy: 89, 1962
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+01/boke_04
+  rotate: true
+  xy: 2, 1974
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+01/boke_05
+  rotate: false
+  xy: 46, 1974
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+
+Chise_BG2.png
+size: 1792,1473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/BG
+  rotate: false
+  xy: 887, 646
+  size: 903, 825
+  orig: 1224, 887
+  offset: 61, 44
+  index: -1
+B_Softlight
+  rotate: true
+  xy: 2, 247
+  size: 1224, 883
+  orig: 1224, 883
+  offset: 0, 0
+  index: -1
+Moonlight_Hardlight
+  rotate: false
+  xy: 887, 2
+  size: 714, 642
+  orig: 714, 642
+  offset: 0, 0
+  index: -1

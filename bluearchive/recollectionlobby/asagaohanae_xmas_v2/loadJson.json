@@ -1,0 +1,25 @@
+{
+  "fileNames": ["CH0195_home"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","vi", "en", "kr", "th"],
+  "animationIndex": [
+    {"name": "CH0195_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 0,
+  "talkMax": 5,
+  "particle": {
+    "particleName": "shiroko_riding",
+    "autoPlay":true,
+    "x": 0.5,
+    "y": 0.5,
+    "width": 1,
+    "height": 1
+  },
+  "bgString": "BG",
+  "index": [10]
+}

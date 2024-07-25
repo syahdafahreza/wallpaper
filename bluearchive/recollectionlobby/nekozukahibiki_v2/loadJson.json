@@ -1,0 +1,26 @@
+{
+  "fileNames": ["Hibiki_home", "Hibiki_BG"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_A",
+  "language": ["jp","ch","en","vi"],
+  "animationIndex": [
+    {"name": "Hibiki_home", "animationName": "Start_Idle_01"},
+    {"name": "Hibiki_BG", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 1,
+  "talkMax": 4,
+  "particle": {
+    "particleName": "hibiki",
+    "autoPlay":true,
+    "x": 0.5,
+    "y": 0.5,
+    "width": 1,
+    "height": 0.35
+  },
+  "bgString": "BG_00_R",
+  "indexs": [10, -10]
+}

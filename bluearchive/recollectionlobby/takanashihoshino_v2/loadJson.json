@@ -1,0 +1,26 @@
+{
+  "fileNames": ["Hoshino_home","Hoshino_home_background"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_A",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "Hoshino_home", "animationName": "Start_Idle_01"},
+    {"name": "Hoshino_home_background", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 1,
+  "talkMax": 3,
+  "particle": {
+    "particleName": "bubblemin",
+    "autoPlay":true,
+    "x": 0.5,
+    "y": 1.2,
+    "width": 1.2,
+    "height": 0.1
+  },
+  "bgString": "BG_00_R",
+  "indexs": [10, -10]
+}

@@ -1,0 +1,24 @@
+{
+  "fileNames": ["Akane_home"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "Akane_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 0,
+  "talkMax": 4,
+  "particle": {
+    "particleName": "shiroko_riding",
+    "autoPlay":true,
+    "x": 0.5,
+    "y": 0.5,
+    "width": 1,
+    "height": 1
+  },
+  "bgString": "BG_00_R"
+}

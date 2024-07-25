@@ -1,0 +1,110 @@
+
+Hibiki_BG.png
+size: 2028,1818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/black
+  rotate: false
+  xy: 2, 1815
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 2, 1815
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+01/bridge3
+  rotate: true
+  xy: 1691, 1501
+  size: 315, 335
+  orig: 320, 335
+  offset: 5, 0
+  index: -1
+01/bridge_f2
+  rotate: false
+  xy: 756, 583
+  size: 624, 522
+  orig: 624, 586
+  offset: 0, 0
+  index: -1
+01/building
+  rotate: false
+  xy: 5, 1640
+  size: 869, 176
+  orig: 869, 176
+  offset: 0, 0
+  index: -1
+01/building1_fx1
+  rotate: false
+  xy: 468, 1380
+  size: 980, 230
+  orig: 980, 230
+  offset: 0, 0
+  index: -1
+01/building1_fx2
+  rotate: false
+  xy: 2, 1120
+  size: 935, 258
+  orig: 935, 258
+  offset: 0, 0
+  index: -1
+01/building2_fx3
+  rotate: false
+  xy: 876, 1612
+  size: 813, 204
+  orig: 813, 204
+  offset: 0, 0
+  index: -1
+01/building_1_F
+  rotate: false
+  xy: 2, 2
+  size: 1214, 579
+  orig: 1214, 579
+  offset: 0, 0
+  index: -1
+01/water_1
+  rotate: false
+  xy: 2, 1416
+  size: 464, 222
+  orig: 464, 222
+  offset: 0, 0
+  index: -1
+01/waterfog
+  rotate: false
+  xy: 2, 823
+  size: 752, 295
+  orig: 752, 295
+  offset: 0, 0
+  index: -1
+01/waterlight
+  rotate: false
+  xy: 939, 1107
+  size: 685, 271
+  orig: 742, 271
+  offset: 0, 0
+  index: -1
+
+Hibiki_BG2.png
+size: 1561,1217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bridge_f1
+  rotate: true
+  xy: 856, 224
+  size: 991, 703
+  orig: 991, 703
+  offset: 0, 0
+  index: -1
+toplight6
+  rotate: true
+  xy: 2, 2
+  size: 1213, 852
+  orig: 1213, 852
+  offset: 0, 0
+  index: -1

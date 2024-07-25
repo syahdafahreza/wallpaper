@@ -1,0 +1,27 @@
+{
+  "fileNames": ["Shigure_home", "Shigure_01", "Shigure_00"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "_M",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01",
+  "headAnimationEnd" : "PatEnd_01",
+  "language": ["jp","ch","en","kr", "vi","th"],
+  "animationIndex": [
+    {"name": "Shigure_00", "animationName": "Start_Idle_00"},
+    {"name": "Shigure_01", "animationName": "Start_Idle_01"},
+    {"name": "Shigure_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 0,
+  "talkMax": 5,
+  "particle": {
+    "particleName": "shiroko_riding",
+	"autoPlay":true,
+    "x": 0.5,
+    "y": 0.5,
+    "width": 1,
+    "height": 1
+  },
+  "bgString": "Train_00_R",
+  "indexs": [-2,-10,-8]
+}

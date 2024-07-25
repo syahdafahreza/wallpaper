@@ -1,0 +1,26 @@
+{
+  "fileNames": ["Neru_home","Neru_BG"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "LookEnd_01_A",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "Neru_home", "animationName": "Start_Idle_01"},
+    {"name": "Neru_BG", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 1,
+  "talkMax": 4,
+  "particle": {
+    "particleName": "yanhuamin",
+    "autoPlay":true,
+    "x": 0.25,
+    "y": 0.25,
+    "width": 0.5,
+    "height": 0.5
+  },
+  "bgString": "BG_00_R",
+  "indexs": [10, -10]
+}

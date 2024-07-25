@@ -1,0 +1,26 @@
+{
+  "fileNames": ["Chise_home","Chise_BG"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "Chise_BG", "animationName": "Start_Idle_01"},
+    {"name": "Chise_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 1,
+  "talkMax": 5,
+  "particle": {
+    "particleName": "atsuko",
+    "autoPlay":true,
+    "x": 0.25,
+    "y": 0.5,
+    "width": 0.75,
+    "height": 0.75
+  },
+  "bgString": "BG_00_R",
+  "indexs": [10,-10]
+}

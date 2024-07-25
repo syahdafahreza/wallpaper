@@ -1,0 +1,25 @@
+{
+  "fileNames": ["Miyako_home"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "_M",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 10,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "Miyako_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 0,
+  "talkMax": 6,
+  "particle": {
+    "particleName": "hina",
+    "autoPlay":true,
+    "x": 0.2,
+    "y": 0.5,
+    "width": 0.25,
+    "height": 1
+  },
+  "bgString": "BG_00_R",
+  "index": [10]
+}

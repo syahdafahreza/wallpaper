@@ -1,0 +1,13 @@
+
+Neru_BG.png
+size: 514,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/background_01
+  rotate: false
+  xy: 2, 2
+  size: 510, 359
+  orig: 510, 359
+  offset: 0, 0
+  index: -1

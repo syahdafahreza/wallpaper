@@ -1,0 +1,25 @@
+{
+  "fileNames": ["Momoi_home", "Momoi_Scene"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "_M2",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "Momoi_Scene", "animationName": "Start_Idle_01"},
+    {"name": "Momoi_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 0,
+  "talkMax": 5,
+  "particle": {
+    "particleName": "shiroko_riding",
+    "autoPlay":true,
+    "x": 0.5,
+    "y": 0.5,
+    "width": 1,
+    "height": 1
+  },
+  "bgString": "BG_00_R"
+}

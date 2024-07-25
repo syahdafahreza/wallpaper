@@ -1,0 +1,24 @@
+{
+  "fileNames": ["CH0152_home"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "_M",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","en","vi","kr","th"],
+  "animationIndex": [
+    {"name": "CH0152_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 0,
+  "talkMax": 5,
+  "particle": {
+    "particleName": "iori",
+    "autoPlay":true,
+    "x": 0.7,
+    "y": 0.8,
+    "width": 0.3,
+    "height": 0.25
+  },
+  "bgString": "BG_00_R"
+}

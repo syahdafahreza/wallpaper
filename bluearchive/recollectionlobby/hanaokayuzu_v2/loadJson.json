@@ -1,0 +1,25 @@
+{
+  "fileNames": ["Yuzu_home","yuzu_bg"],
+  "talkName": "Dev_Talk_0",
+  "talkNameEnd": "",
+  "touchbone": "Touch_Eye",
+  "eyeRadius": 20,
+  "headAnimation": "Pat_01_A",
+  "headAnimationEnd" : "PatEnd_01_M",
+  "language": ["jp","ch","en","kr","vi","th"],
+  "animationIndex": [
+    {"name": "yuzu_bg", "animationName": "Start_Idle_01"},
+    {"name": "Yuzu_home", "animationName": "Start_Idle_01"}
+  ],
+  "mixType": 1,
+  "talkMax": 4,
+  "particle": {
+    "particleName": "shiroko_riding",
+    "autoPlay":true,
+    "x": 0.15,
+    "y": 0.5,
+    "width": 0.15,
+    "height": 1
+  },
+  "bgString": "BG_00_R"
+}
