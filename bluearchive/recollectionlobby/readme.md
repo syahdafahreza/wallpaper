@@ -1,5 +1,5 @@
 # Student List
-> `Information:` The 4K&8K Resources has been removed due to some GitHub Pages limitation. I'll be working on separate repository for that (Coming Soon)
+> `Information:` The 4K&8K Resources has been removed due to some GitHub Pages limitation. I'll be working on separate repository for that maybe (Coming Soon)
 - Abydos High School
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/izayoinonomi_v2/">Izayoi Nonomi</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/izayoinonomi_swimsuit_v2/">Izayoi Nonomi (Swimsuit)</a>
