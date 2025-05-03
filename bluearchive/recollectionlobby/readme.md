@@ -182,7 +182,7 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tsukiyukimiyako_swimsuit_v2/">Tsukiyuki Miyako (Swimsuit)</a>
     - <a href="#"></a>Yukino
 - Highlander Railroad Academy
-    - <a href="#">Tachibana Hikari</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibana_hikari_v2_768/">Tachibana Hikari</a>
     - <a href="#">Tachibana Nozomi</a>
 - Special Characters
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/hatsunemiku_v2/">Hatsune Miku</a>
