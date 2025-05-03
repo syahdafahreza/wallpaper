@@ -181,6 +181,9 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tsukiyukimiyako_v2/">Tsukiyuki Miyako</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tsukiyukimiyako_swimsuit_v2/">Tsukiyuki Miyako (Swimsuit)</a>
     - <a href="#"></a>Yukino
+- Highlander Railroad Academy
+    - <a href="#">Tachibana Hikari</a>
+    - <a href="#">Tachibana Nozomi</a>
 - Special Characters
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/hatsunemiku_v2/">Hatsune Miku</a>
 - Kronos School of Journalism (TBA)
