@@ -183,7 +183,7 @@
     - <a href="#"></a>Yukino
 - Highlander Railroad Academy
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibana_hikari_v2_768/">Tachibana Hikari</a>
-    - <a href="#">Tachibana Nozomi</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibana_nozomi_v2_768">Tachibana Nozomi</a>
 - Special Characters
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/hatsunemiku_v2/">Hatsune Miku</a>
 - Kronos School of Journalism (TBA)
