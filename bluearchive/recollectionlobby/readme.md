@@ -70,7 +70,7 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/murokasaakane_bunny_v2/">Murokasa Akane (Bunny)</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nekozukahibiki_v2/">Nekozuka Hibiki</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nekozukahibiki_cheerleader_v2/">Nekozuka Hibiki (Cheerleader)</a>
-    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nomasa_rei_v2_768/">Nomasa Rei</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nomasarei_v2_768/">Nomasa Rei</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/omagarihare_v2/">Omagari Hare</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/otohanasumire_v2/">Otohana Sumire</a>
     - <a href="#"></a>Otose Kotama
@@ -183,8 +183,8 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tsukiyukimiyako_swimsuit_v2/">Tsukiyuki Miyako (Swimsuit)</a>
     - <a href="#"></a>Yukino
 - Highlander Railroad Academy
-    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibana_hikari_v2_768/">Tachibana Hikari</a>
-    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibana_nozomi_v2_768">Tachibana Nozomi</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibanahikari_v2_768/">Tachibana Hikari</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tachibananozomi_v2_768">Tachibana Nozomi</a>
 - Special Characters
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/hatsunemiku_v2/">Hatsune Miku</a>
 - Kronos School of Journalism (TBA)
