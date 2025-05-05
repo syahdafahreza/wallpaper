@@ -169,6 +169,7 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/hakariatsuko_v2/">Hakari Atsuko</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/imashinomisaki_v2/">Imashino Misaki</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/joumaesaori_v2/">Joumae Saori</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/joumaesaori_dress_v2_768/">Joumae Saori (Dress ver.)</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/tsuchinagahiyori_v2/">Tsuchinaga Hiyori</a>
 - SRT Special Academy
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/kasumizawamiyu_v2/">Kasumizawa Miyu</a>
