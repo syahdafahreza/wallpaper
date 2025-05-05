@@ -1,0 +1,68 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0259_home.skel",
+    "atlas": "CH0259_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 710,
+    "y": 850,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.45,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 890,
+    "textY": 490,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "English"
+  },
+  "EventInfos" : [
+    {"BoneName": "Spine_02", "Width": 1500, "Height": 800, "Animations":
+      ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M"],
+    "AnimationIndex": 10, "TextIndex":  0, "ClickType" : "click", "EmptyAnimation": true},
+
+    {"BoneName": "hair 4", "Width": 800, "Height": 500, "Animations":
+     ["Pat_01_M"], 
+   "AnimationIndex": 20, "TextIndex":  0, "ClickType" :  "pointerdown", "EmptyAnimation": false}
+   
+ ],
+  "AnimationsTexts" : {
+    "中文": {
+      "CH0259_MemorialLobby_1_1": "这、这样就可以了吗……？",
+      "CH0259_MemorialLobby_1_2": "既然是老师说的……不过，这个姿势有点……。",
+      "CH0259_MemorialLobby_1_3": "平时我绝对不可能摆出这样的姿势。",
+      "CH0259_MemorialLobby_2_1": "双手被占住的话，会有点不安呢。",
+      "CH0259_MemorialLobby_2_2": "如果没有信任伙伴的话很难做到吧。",
+      "CH0259_MemorialLobby_3": "难道……这是在展示信任的问候方式吗？",
+      "CH0259_MemorialLobby_4": "那么……为了老师满意，我就保持这个姿势吧。",
+      "CH0259_MemorialLobby_5": "这就是……我信任的证明。"
+    },
+    "日本語": {
+      "CH0259_MemorialLobby_1_1": "こ、こうすればいいのか……？",
+      "CH0259_MemorialLobby_1_2": "先生がいうのなら……だが、これは少し……。",
+      "CH0259_MemorialLobby_1_3": "普段は、絶対取らないポーズだから。",
+      "CH0259_MemorialLobby_2_1": "両手が塞がっていると、少し不安になる。",
+      "CH0259_MemorialLobby_2_2": "パートナーを信頼していなければ難しいな。",
+      "CH0259_MemorialLobby_3": "もしかして……それを示す挨拶、だったのか？",
+      "CH0259_MemorialLobby_4": "ならば……先生が満足するまで、こうしていよう。",
+      "CH0259_MemorialLobby_5": "それが……私の信頼の証だ。"
+    },
+    "English": {
+      "CH0259_MemorialLobby_1_1": "Be-begini caranya... bener nggak ya...?",
+      "CH0259_MemorialLobby_1_2": "Kalau kata Sensei sih gitu... tapi pose ini agak... aneh ya.",
+      "CH0259_MemorialLobby_1_3": "Biasanya sih aku nggak bakal ambil pose beginian.",
+      "CH0259_MemorialLobby_2_1": "Kalau dua tangan nggak bisa gerak, rasanya agak nggak tenang deh.",
+      "CH0259_MemorialLobby_2_2": "Kayaknya cuma bisa dilakuin kalau bener-bener percaya sama partner-nya.",
+      "CH0259_MemorialLobby_3": "Eh... jangan-jangan ini semacam salam tanda kepercayaan?",
+      "CH0259_MemorialLobby_4": "Kalau gitu... demi bikin Sensei senang, aku tahan aja pose-nya.",
+      "CH0259_MemorialLobby_5": "Ini... bukti kalau aku percaya sepenuhnya."
+    }
+  }
+}
