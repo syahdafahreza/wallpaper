@@ -47,7 +47,7 @@
       "Animations": ["PinchEnd_01_M"],
       "AnimationIndex": 15,
       "TextIndex": 0,
-      "ClickType": "click",
+      "ClickType": "pointerdown",
       "EmptyAnimation": true
     },
 
