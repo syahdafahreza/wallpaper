@@ -70,6 +70,7 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/murokasaakane_bunny_v2/">Murokasa Akane (Bunny)</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nekozukahibiki_v2/">Nekozuka Hibiki</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nekozukahibiki_cheerleader_v2/">Nekozuka Hibiki (Cheerleader)</a>
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/nomasa_rei_v2_768/">Nomasa Rei</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/omagarihare_v2/">Omagari Hare</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/otohanasumire_v2/">Otohana Sumire</a>
     - <a href="#"></a>Otose Kotama
