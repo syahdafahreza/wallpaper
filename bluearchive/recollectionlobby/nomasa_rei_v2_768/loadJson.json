@@ -1,0 +1,72 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0245_home.skel",
+    "atlas": "CH0245_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 637,
+    "y": 775,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.45,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 779,
+    "textY": 365,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "English"
+  },
+  "EventInfos" : [
+    {"BoneName": "bone10d", "Width": 1500, "Height": 800, "Animations":
+      ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M"],
+    "AnimationIndex": 10, "TextIndex":  0, "ClickType" : "pointerdown", "EmptyAnimation": true},
+
+    {"BoneName": "sunglass_1", "Width": 800, "Height": 500, "Animations":
+     ["Pat_01_M"], 
+   "AnimationIndex": 20, "TextIndex":  0, "ClickType" :  "pointerdown", "EmptyAnimation": false}
+   
+ ],
+  "AnimationsTexts" : {
+    "中文": {
+      "Sound/CH0245_MemorialLobby_1_1": "这是我第一次接到的……",
+      "Sound/CH0245_MemorialLobby_1_2": "意义非凡的本垒打纪念球。",
+      "Sound/CH0245_MemorialLobby_2": "刚开始打棒球的时候，我经常带着它。",
+      "Sound/CH0245_MemorialLobby_3_1": "那天看到的本垒打——",
+      "Sound/CH0245_MemorialLobby_3_2": "我希望有一天也能打出同样的球。",
+      "Sound/CH0245_MemorialLobby_4": "现在它已经破旧不堪了，所以我把它放在储物柜里保存。",
+      "Sound/CH0245_MemorialLobby_5_1": "每当感到快要放弃的时候，看看这颗球，",
+      "Sound/CH0245_MemorialLobby_5_2": "就好像回到了初心，能让我重新振作起来。",
+      "Sound/CH0245_MemorialLobby_5_3": "……它对我来说是最重要的护身符。"
+    },
+    "日本語": {
+      "Sound/CH0245_MemorialLobby_1_1": "これは私が初めて捕った……",
+      "Sound/CH0245_MemorialLobby_1_2": "思い出の、ホームランボールです。",
+      "Sound/CH0245_MemorialLobby_2": "野球を始めたての頃、よく持ち歩いてました。",
+      "Sound/CH0245_MemorialLobby_3_1": "あの日みたホームランを――",
+      "Sound/CH0245_MemorialLobby_3_2": "いつか、自分でも同じように打ちたいと思って。",
+      "Sound/CH0245_MemorialLobby_4": "今はボロボロになってしまったのでロッカーに保管しています。",
+      "Sound/CH0245_MemorialLobby_5_1": "くじけそうな時は、このボールを見ると",
+      "Sound/CH0245_MemorialLobby_5_2": "初心に戻れるような気がして…元気をもらえる。",
+      "Sound/CH0245_MemorialLobby_5_3": "……大切な、お守りなんです。。"
+    },
+    "English": {
+      "Sound/CH0245_MemorialLobby_1_1": "Ini bola pertama yang aku tangkep...",
+      "Sound/CH0245_MemorialLobby_1_2": "Bola homerun kenangan yang super berharga.",
+      "Sound/CH0245_MemorialLobby_2": "Waktu baru mulai main baseball, aku sering banget bawa-bawa bola ini.",
+      "Sound/CH0245_MemorialLobby_3_1": "Waktu itu aku liat homerun yang keren banget—",
+      "Sound/CH0245_MemorialLobby_3_2": "Aku jadi pengen banget suatu hari bisa mukul bola kayak gitu juga.",
+      "Sound/CH0245_MemorialLobby_4": "Sekarang bolanya udah lusuh sih, jadi aku simpen baik-baik di loker.",
+      "Sound/CH0245_MemorialLobby_5_1": "Pas lagi ngerasa pengen nyerah, liat bola ini tuh...",
+      "Sound/CH0245_MemorialLobby_5_2": "Rasanya kayak inget lagi tujuan awal, bikin semangat balik lagi.",
+      "Sound/CH0245_MemorialLobby_5_3": "...Ini tuh jimat paling penting buat aku."
+    }
+
+  }
+}
