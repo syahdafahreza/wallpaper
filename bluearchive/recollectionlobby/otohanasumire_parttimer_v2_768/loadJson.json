@@ -1,0 +1,77 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0287_home.skel",
+    "atlas": "CH0287_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 720,
+    "y": 842,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.45,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 737,
+    "textY": 490,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "English"
+  },
+  "EventInfos" : [
+    {"BoneName": "bone28", "Width": 1500, "Height": 800, "Animations":
+      ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M"],
+    "AnimationIndex": 10, "TextIndex":  0, "ClickType" : "pointerdown", "EmptyAnimation": true},
+
+    {"BoneName": "bone8", "Width": 800, "Height": 500, "Animations":
+     ["Pat_01_M"], 
+   "AnimationIndex": 20, "TextIndex":  0, "ClickType" :  "pointerdown", "EmptyAnimation": false}
+
+ ],
+  "AnimationsTexts" : {
+    "中文": {
+      "CH0287_MemorialLobby_1_1": "辛苦了，训练员！",
+      "CH0287_MemorialLobby_1_2": "真是精彩的跑步。",
+      "CH0287_MemorialLobby_1_3": "请慢用，已经为您准备好了饮料。",
+      "CH0287_MemorialLobby_2_1": "嗯，这些努力理应得到回报。",
+      "CH0287_MemorialLobby_2_2": "因为只有在有适当的奖励的情况下，",
+      "CH0287_MemorialLobby_3_1": "当然，并非世界上的一切——",
+      "CH0287_MemorialLobby_3_2": "都能得到与努力成正比的评价。",
+      "CH0287_MemorialLobby_4_1": "即便如此，我还是觉得，",
+      "CH0287_MemorialLobby_4_2": "努力的人应该得到应有的回报。",
+      "CH0287_MemorialLobby_5_1": "来，请喝吧。",
+      "CH0287_MemorialLobby_5_2": "我也来喝一杯。"
+    },
+    "日本語": {
+      "CH0287_MemorialLobby_1_1": "お疲れ様でした！トレーナー！",
+      "CH0287_MemorialLobby_1_2": "本当に、見事な走りでした。",
+      "CH0287_MemorialLobby_1_3": "どうぞ、お飲み物をご用意しています。",
+      "CH0287_MemorialLobby_2_1": "ええ、この努力は報われるべきです。",
+      "CH0287_MemorialLobby_2_2": "ちゃんとしたご褒美があってこそ、ですから。",
+      "CH0287_MemorialLobby_3_1": "もちろん、世の中のすべてが――",
+      "CH0287_MemorialLobby_3_2": "努力に比例した評価が与えられるわけではありません。",
+      "CH0287_MemorialLobby_4_1": "それでも私は……",
+      "CH0287_MemorialLobby_4_2": "頑張った人がきちんと報われて欲しいと、思うのです。",
+      "CH0287_MemorialLobby_5_1": "さあ、お飲みください。",
+      "CH0287_MemorialLobby_5_2": "私も一杯、いただきます。"
+    },
+    "English": {
+      "CH0287_MemorialLobby_1_1": "Kerja bagus, Trainer!",
+      "CH0287_MemorialLobby_1_2": "Larinya tadi bener-bener luar biasa.",
+      "CH0287_MemorialLobby_1_3": "Silakan, aku sudah siapkan minuman untukmu.",
+      "CH0287_MemorialLobby_2_1": "Yup, usaha seperti itu memang pantas dapat hadiah.",
+      "CH0287_MemorialLobby_2_2": "Soalnya, imbalan yang pas itu bisa jadi motivasi juga kan.",
+      "CH0287_MemorialLobby_3_1": "Tentu aja, nggak semua hal di dunia ini—",
+      "CH0287_MemorialLobby_3_2": "bisa dihargai sesuai dengan seberapa keras kita berusaha.",
+      "CH0287_MemorialLobby_4_1": "Tapi meskipun begitu...",
+      "CH0287_MemorialLobby_4_2": "aku tetap percaya orang yang berusaha pantas dapat balasan yang setimpal.",
+      "CH0287_MemorialLobby_5_1": "Ayo, minumlah~",
+      "CH0287_MemorialLobby_5_2": "Aku juga akan minum bareng, ya."
+    }
+  }
+}
