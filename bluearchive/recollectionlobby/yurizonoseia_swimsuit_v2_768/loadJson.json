@@ -1,0 +1,104 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0295_home.skel",
+    "atlas": "CH0295_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 755,
+    "y": 787,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.45,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 832,
+    "textY": 520,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "Bahasa Indonesia"
+  },
+  "EventInfos" : [
+    {"BoneName": "Belt_M", "Width": 1800, "Height": 1000, "Animations":
+    ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M"],
+	"AnimationIndex": 10, "TextIndex":  0, "ClickType" : "pointerdown", "EmptyAnimation": true},
+
+    {"BoneName": "Hair_Side_L_Rot", "Width": 800, "Height": 500, "Animations":
+	["Pat_01_M"], 
+	"AnimationIndex": 20, "TextIndex":  0, "ClickType" :  "pointerdown", "EmptyAnimation": false}
+	
+  ],
+  "AnimationsTexts" : {
+    "中文": {
+        "sound/CH0295_MemorialLobby_1_1": "风真好。仿佛比平时更清凉了一些。",
+        "sound/CH0295_MemorialLobby_1_2": "没有任何阻碍……这个世界只属于我们两人。",
+        "sound/CH0295_MemorialLobby_2_1": "从副驾驶座看出去的景色漂亮吗？",
+        "sound/CH0295_MemorialLobby_2_2": "你的表情……是沉醉于风景？还是……对我的邀请感到意外？",
+        "sound/CH0295_MemorialLobby_3_1": "不管怎样，能看到你这样的表情我已满足。这番邀约果然值得。",
+        "sound/CH0295_MemorialLobby_3_2": "若你追问宏大的理由，我也不知道。随心所欲……仅此而已。",
+        "sound/CH0295_MemorialLobby_4_1": "人们把这种举动称作什么来着……",
+        "sound/CH0295_MemorialLobby_4_2": "嗯……私奔？",
+        "sound/CH0295_MemorialLobby_5_1": "呵呵……开玩笑的。",
+        "sound/CH0295_MemorialLobby_5_2": "不过，再稍微——这样吧。",
+        "sound/CH0295_MemorialLobby_5_3": "在把你送回去之前，就陪我玩完这场“游戏”如何？"
+      },
+    "日本語": {
+      "sound/CH0295_MemorialLobby_1_1": "良い風だ。やはり、心なしか涼やかに感じられる。",
+      "sound/CH0295_MemorialLobby_1_2": "邪魔するものはなく……この世界は私たちだけのものだ。",
+      "sound/CH0295_MemorialLobby_2_1": "助手席からの眺めは美しいかな？",
+      "sound/CH0295_MemorialLobby_2_2": "その表情は……景色に驚いているのかい？それとも……私の誘いが意外だったのかな？",
+      "sound/CH0295_MemorialLobby_3_1": "どちらにせよ、その顔を拝めただけで満足だ。こうして誘った甲斐があったというものだね。",
+      "sound/CH0295_MemorialLobby_3_2": "大それた理由を求められても困ってしまうな。気の向くままに……それだけのことさ。",
+      "sound/CH0295_MemorialLobby_4_1": "こういうのを、何と言ったかね……",
+      "sound/CH0295_MemorialLobby_4_2": "ふむ……逃避行？",
+      "sound/CH0295_MemorialLobby_5_1": "ふふ……冗談さ。",
+      "sound/CH0295_MemorialLobby_5_2": "けれど、まだしばらくは……そうだな。",
+      "sound/CH0295_MemorialLobby_5_3": "君を送り返すまでは、この「戯れ」に付き合ってもらうとしようか。"
+      
+    },
+    "English":{
+      "sound/CH0295_MemorialLobby_1_1": "The breeze is nice. Somehow, it feels just a little cooler.",
+      "sound/CH0295_MemorialLobby_1_2": "Nothing stands in our way… this world belongs only to us.",
+      "sound/CH0295_MemorialLobby_2_1": "Is the view from the passenger seat beautiful?",
+      "sound/CH0295_MemorialLobby_2_2": "That expression… are you amazed by the scenery? Or… were you surprised by my invitation?",
+      "sound/CH0295_MemorialLobby_3_1": "Either way, I’m satisfied simply seeing that look on your face. It was worth inviting you.",
+      "sound/CH0295_MemorialLobby_3_2": "If you ask for some grand reason, I’ll be at a loss. I just follow my whims—nothing more.",
+      "sound/CH0295_MemorialLobby_4_1": "What do they call this sort of thing again…",
+      "sound/CH0295_MemorialLobby_4_2": "Hm… an elopement?",
+      "sound/CH0295_MemorialLobby_5_1": "Heh… just kidding.",
+      "sound/CH0295_MemorialLobby_5_2": "Still, for a little while longer—let’s see…",
+      "sound/CH0295_MemorialLobby_5_3": "Until I take you home, why not indulge in this little ‘game’ with me?"
+    },
+    "Tiếng Việt":{
+      "sound/CH0295_MemorialLobby_1_1":"Thật là một làn gió dễ chịu. Cảm giác mát mẻ hơn hẳn.",
+      "sound/CH0295_MemorialLobby_1_2":"Không có gì cản trở cả… như thế giới này chỉ thuộc về thầy với em vậy.",
+      "sound/CH0295_MemorialLobby_2_1":"Từ ghế phụ nhìn ra ngoài, cảnh đẹp lắm phải không thầy?",
+      "sound/CH0295_MemorialLobby_2_2":"Vẻ mặt đó là… vì ngạc nhiên trước khung cảnh ạ? Hay là… thầy thấy bất ngờ vì em mời đi cùng?",
+      "sound/CH0295_MemorialLobby_3_1":"Dù là lý do gì đi nữa… chỉ cần được nhìn thấy gương mặt của thầy thế này là em thấy mãn nguyện rồi, Mời thầy đi cùng thế này… đúng là không uổng công chút nào ạ.",
+      "sound/CH0295_MemorialLobby_3_2":"Chỉ là… em làm theo cảm xúc của mình thôi, đơn giản thế thôi ạ.",
+      "sound/CH0295_MemorialLobby_4_1":"Mấy chuyện như thế này… người ta gọi là gì ấy nhỉ…",
+      "sound/CH0295_MemorialLobby_4_2":"Ừm… phải rồi, là 'chuyến trốn chạy' chăng?",
+      "sound/CH0295_MemorialLobby_5_1":"Fufu… Em đùa thôi mà.",
+      "sound/CH0295_MemorialLobby_5_2":"Nhưng mà… em nghĩ mình vẫn còn chút thời gian nữa.",
+      "sound/CH0295_MemorialLobby_5_3":"Trước khi tiễn thầy về… em mong thầy sẽ tiếp tục cùng em trong ‘trò đùa’ này thêm một chút nữa nhé."
+    },
+    "Bahasa Indonesia": {
+      "sound/CH0295_MemorialLobby_1_1": "Anginnya enak, ya. Rasanya jadi lebih sejuk aja gitu.",
+      "sound/CH0295_MemorialLobby_1_2": "Nggak ada yang menghalangi... dunia ini serasa cuma milik kita berdua.",
+      "sound/CH0295_MemorialLobby_2_1": "Pemandangan dari kursi penumpang bagus, nggak?",
+      "sound/CH0295_MemorialLobby_2_2": "Ekspresi kamu itu... takjub sama pemandangannya? Atau... kaget karena aku ajak?",
+      "sound/CH0295_MemorialLobby_3_1": "Apa pun itu, lihat ekspresi kamu yang kayak gitu aja aku udah puas. Nggak sia-sia aku ajak kamu, deh.",
+      "sound/CH0295_MemorialLobby_3_2": "Kalau kamu nanya alasan pentingnya apa, aku juga bingung. Cuma ngikutin kata hati aja... itu doang.",
+      "sound/CH0295_MemorialLobby_4_1": "Yang kayak gini tuh, apa ya sebutannya...",
+      "sound/CH0295_MemorialLobby_4_2": "Hmm... kawin lari?",
+      "sound/CH0295_MemorialLobby_5_1": "Hehe... bercanda, kok.",
+      "sound/CH0295_MemorialLobby_5_2": "Tapi, untuk sebentar lagi... gimana, ya.",
+      "sound/CH0295_MemorialLobby_5_3": "Sebelum aku antar kamu pulang, mau nggak nemenin aku di 'permainan' ini sampai selesai?"
+    }
+  }
+}
