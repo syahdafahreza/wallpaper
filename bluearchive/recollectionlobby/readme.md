@@ -122,6 +122,7 @@
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/wakabahinata_v2/">Wakaba Hinata</a>
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/wakabahinata_swimsuit_v2/">Wakaba Hinata (Swimsuit)</a>
     - <a href="#"></a>Yurizono Seia
+    - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/yurizonoseia_swimsuit_v2_768/"></a>Yurizono Seia (Swimsuit) 1366x768
     - <a href="https://syahdafahreza.github.io/wallpaper/bluearchive/recollectionlobby/yutorinatsu_v2/">Yutori Natsu</a>
 - Hyakkiyako Alliance Academy
     - <a href="#"></a>Asahina Pina
