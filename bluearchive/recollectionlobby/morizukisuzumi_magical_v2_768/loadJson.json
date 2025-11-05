@@ -1,0 +1,94 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0325_home.skel",
+    "atlas": "CH0325_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 755,
+    "y": 787,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.5,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 900,
+    "textY": 400,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "Bahasa Indonesia"
+  },
+  "EventInfos" : [
+    {"BoneName": "body_skin", "Width": 1500, "Height": 800, "Animations":
+    ["Talk_01_M","Talk_02_M","Talk_03_M","Talk_04_M","Talk_05_M"],
+	"AnimationIndex": 10, "TextIndex":  0, "ClickType" : "pointerdown", "EmptyAnimation": true},
+
+    {"BoneName": "hair_5_main", "Width": 800, "Height": 500, "Animations":
+	["Pat_01_M"], 
+	"AnimationIndex": 20, "TextIndex":  0, "ClickType" :  "pointerdown", "EmptyAnimation": false}
+	
+  ],
+  "AnimationsTexts" : {
+    "Bahasa Indonesia": {
+      "sound/CH0325_MemorialLobby_1_1": "Eh, Sensei!?",
+      "sound/CH0325_MemorialLobby_1_2": "A-ada perlu apa!? Eh, tapi, kamu di sini dari kapan?",
+      "sound/CH0325_MemorialLobby_2_1": "Aku lagi fokus dengerin musik, jadi nggak ngeh sama sekali...",
+      "sound/CH0325_MemorialLobby_2_2": "Tapi, syukurlah ya, yang lihat ternyata Sensei.",
+      "sound/CH0325_MemorialLobby_3_1": "Ah, k-kostum ini, itu...",
+      "sound/CH0325_MemorialLobby_3_2": "Ini buat investigasi nyamar bareng Jikeidan...",
+      "sound/CH0325_MemorialLobby_3_3": "B-bukan berarti ini hobi aku... Bukan! Seriusan!",
+      "sound/CH0325_MemorialLobby_4_1": "Aku cuma pakai buat ngecek ukurannya pas atau nggak, itu aja...!",
+      "sound/CH0325_MemorialLobby_4_2": "(D-dibilang imut, dong...) (Dikasih pujian tiba-tiba... uuh...!)",
+      "sound/CH0325_MemorialLobby_4_3": "(Aku masih belum biasa dipuji.) (Seneng sih... Tapi...!)",
+      "sound/CH0325_MemorialLobby_5_1": "Yang kamu lihat hari ini, tolong rahasiain dari yang lain, ya!",
+      "sound/CH0325_MemorialLobby_5_2": "Ini, soalnya, masalah rahasia...!"
+    },
+    "中文": {
+      "sound/CH0325_MemorialLobby_1_1": "老、老师！？",
+      "sound/CH0325_MemorialLobby_1_2": "有、有什么吩咐吗！？不对，您什么时候来的！？",
+      "sound/CH0325_MemorialLobby_2_1": "我沉浸在音乐里，完全没注意到……",
+      "sound/CH0325_MemorialLobby_2_2": "不过，对方是老师真是太好了。",
+      "sound/CH0325_MemorialLobby_3_1": "啊，这、这身衣服，是、是……！",
+      "sound/CH0325_MemorialLobby_3_2": "为了自警团的潜入调查才穿的……",
+      "sound/CH0325_MemorialLobby_3_3": "绝、绝不是我的个人兴趣……！真的！",
+      "sound/CH0325_MemorialLobby_4_1": "只是提前试穿确认尺寸是否合适……！",
+      "sound/CH0325_MemorialLobby_4_2": "（居、居然夸我可爱……）（突然被表扬……呜呜……！）",
+      "sound/CH0325_MemorialLobby_4_3": "（我还是不擅长被夸奖。）（虽然很开心……！但是……！）",
+      "sound/CH0325_MemorialLobby_5_1": "今天看到的事，请对其他同学保密哦！",
+      "sound/CH0325_MemorialLobby_5_2": "这、这是机密事项！"
+    },
+    "日本語": {
+      "sound/CH0325_MemorialLobby_1_1": "せ、先生！？",
+      "sound/CH0325_MemorialLobby_1_2": "な、なにかご用件でも！？というか、いつからいらしてたんですか！",
+      "sound/CH0325_MemorialLobby_2_1": "音楽に集中していたので全然気づいておらず……。",
+      "sound/CH0325_MemorialLobby_2_2": "でも、相手が先生で良かったです。",
+      "sound/CH0325_MemorialLobby_3_1": "あっ、こ、この衣装は、その……！",
+      "sound/CH0325_MemorialLobby_3_2": "自警団の潜入捜査のため、でして……。",
+      "sound/CH0325_MemorialLobby_3_3": "わ、私の趣味というわけでは……！違います！本当に！",
+      "sound/CH0325_MemorialLobby_4_1": "サイズが合うか事前に確認しようと思って着ただけで……！",
+      "sound/CH0325_MemorialLobby_4_2": "（か、可愛いと言ってくださりました……）（いきなり褒められると……うぅ……！）",
+      "sound/CH0325_MemorialLobby_4_3": "（褒められるのは、まだ慣れません。）（嬉しくはありますが……！でも……！）",
+      "sound/CH0325_MemorialLobby_5_1": "今日見たことは、他の方には内緒にしてくださいね！",
+      "sound/CH0325_MemorialLobby_5_2": "これは、機密事項……なので！"
+    },
+    "Tiếng Việt": {
+      "sound/CH0325_MemorialLobby_1_1": "S-Sensei!?",
+      "sound/CH0325_MemorialLobby_1_2": "Có, có việc gì thầy cần sao ạ!? Cơ mà Thầy đến từ khi nào vậy!?",
+      "sound/CH0325_MemorialLobby_2_1": "Tại em mải nghe nhạc lên em không để ý...",
+      "sound/CH0325_MemorialLobby_2_2": "Nhưng mà, thât nhẹ nhõm khi thầy là người nhìn đó.",
+      "sound/CH0325_MemorialLobby_3_1": "A,bộ đồ này thì, là…!",
+      "sound/CH0325_MemorialLobby_3_2": "Để đi trinh sát ngầm cho đội Tự vệ...ạ..",
+      "sound/CH0325_MemorialLobby_3_3": "Đó- đó không phải là sở thích cá nhân đâu ạ, thật sự hiểu lầm lắm ạ",
+      "sound/CH0325_MemorialLobby_4_1": "Em chỉ thử xem size có vừa không thôi ạ…!",
+      "sound/CH0325_MemorialLobby_4_2": "(Thầy vừa khen mình dễ thương sao…!) (Sao nó lại đột ngột đến vậy… uu…!)",
+      "sound/CH0325_MemorialLobby_4_3": "(Mình chưa từng được khen ngợi như này) (Dù mình có chút vui…! Nhưng mà…!)",
+      "sound/CH0325_MemorialLobby_5_1": "Chuyện hôm nay Thầy nhìn thấy, xin đừng kể cho ai khác nhé!",
+      "sound/CH0325_MemorialLobby_5_2": "Đây là... thông tin tuyệt mật đó!"
+    }
+  }
+}
