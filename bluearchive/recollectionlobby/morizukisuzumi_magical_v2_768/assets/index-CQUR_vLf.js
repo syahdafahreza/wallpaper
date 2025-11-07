@@ -51698,7 +51698,7 @@ void main(void){
                     default: be(() => [
                       ne(
                         ke,
-                        { "label-width": "250px", "label-position": "left" },
+                        { "label-width": "300px", "label-position": "left" },
                         {
                           default: be(() => [
                             ne(
